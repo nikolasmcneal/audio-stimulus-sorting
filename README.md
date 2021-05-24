@@ -1,5 +1,5 @@
 # audio-stimulus-sorting
-A JavaScript framework to sort audio stimuli
+## A JavaScript framework to sort audio stimuli
 
 
 ![preview](/img/preview.png)
